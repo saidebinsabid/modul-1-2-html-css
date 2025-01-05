@@ -1,0 +1,44 @@
+HTML -> Hyper-text markup language
+
+
+Some Tag:
+
+Heading -> <h1> </h1> <h2> </h2> <h3> </h3> <h4> </h4> <h5> </h5> <h6> </h6>
+Paragraph -> <p> <p/>
+Word Bold -> <b> </b>
+Italic Style -> <i> </i>
+List Item -> <li> </li>
+Line Break -> <br>
+Button -> <button> </button>
+Anchor Tag -> <a> </a>
+select -> <select> </select>
+Form -> <form> </form>
+Description List -> <dl> </dl>
+Description List Description -> <dd> <?dd>
+
+Sematic Tag:
+
+Word Bold -> <strong> </strong>
+Emphasize -> <em> </em>
+Word Small -> <small> </small>
+
+Container Tag:
+
+Unordered List -> <ul> </ul>
+Ordered List -> <ol> </ol>
+Division -> <div> </div>
+
+Attribute Tag:
+
+Hyper Reference -> <a href= " "> Write Anything </a> 
+
+Void Tag:
+
+Line Break -> <br>
+Image -> <img src="" alt=" ">
+Input Field -> <input type="text">
+
+
+Form:
+
+Input Field -> <input type="text/password/checkbox/date/email/file" placeholder="FIELD Default Text">
